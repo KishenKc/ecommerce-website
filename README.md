@@ -63,7 +63,7 @@ git clone https://github.com/KishenKc/ecommerce-website.git
 **Kishen Chinasamy**
 
 LinkedIn:
-(Add your LinkedIn here)
+www.linkedin.com/in/kishenchinasamy
 
 GitHub:
 https://github.com/KishenKc
