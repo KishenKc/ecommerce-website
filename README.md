@@ -36,9 +36,10 @@ https://kishenkc.infinityfreeapp.com
 
 ## Screenshots
 
-### Home Page
+<img width="1440" height="773" alt="admin-dashboard" src="https://github.com/user-attachments/assets/51113756-272a-467a-9502-c7bbd06dc7af" />
+<img width="1344" height="775" alt="product-page" src="https://github.com/user-attachments/assets/37fb9aed-f612-4a47-bd31-fc64d856f1e5" />
+<img width="1435" height="775" alt="homepage" src="https://github.com/user-attachments/assets/390d7087-9df1-4a65-873c-3185f1934077" />
 
-*(Add screenshots here later.)*
 
 ---
 
